@@ -70,6 +70,8 @@ p {
     font-family: 'Ubuntu';
     font-size: 2rem;
     font-weight: bold;
+    font-style: italic;
+    color: #000;
 }
 
 .nav-item {
@@ -137,6 +139,10 @@ position: relative;
         border-radius: 100%;
         width: 10%;
         margin: 20px;
+    }
+
+    .testimonial-text {
+        font-size: 2rem;
     }
 
         /* Press Section */
